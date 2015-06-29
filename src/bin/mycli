@@ -1,0 +1,7 @@
+#!/usr/bin/env python
+'''
+        CLI - mycli
+'''
+
+if __name__ == "__main__" :
+        import mycli.mycli
